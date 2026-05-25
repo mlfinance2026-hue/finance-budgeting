@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(python fix_notebook.py)",
+      "PowerShell(python \"c:\\\\Users\\\\Abcom\\\\MLFinance\\\\fix_notebook.py\")",
+      "PowerShell(python \"c:\\\\Users\\\\Abcom\\\\MLFinance\\\\fix_derivatives.py\")"
+    ]
+  }
+}

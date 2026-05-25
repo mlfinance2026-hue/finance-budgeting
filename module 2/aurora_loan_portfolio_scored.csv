@@ -1,0 +1,101 @@
+Loan_ID,Customer_Type,Annual_Income,Loan_Amount,Debt_to_Income,Credit_History_Length,Interest_Rate,Loan_Term_Months,Past_Default,PD,Risk_Tier,Recommended
+96,Retail,478345,965614,0.54,15,12.57,60,0,0.3,Very High Risk,Reject
+53,Corporate,3629865,36069,0.68,11,12.77,24,0,0.3,Very High Risk,Reject
+40,Retail,1256607,276776,0.57,6,4.49,24,0,0.29,Very High Risk,Reject
+65,Retail,817494,719913,0.4,19,9.03,12,0,0.29,Very High Risk,Reject
+38,Corporate,4859040,780173,0.47,5,12.97,60,0,0.28,Very High Risk,Reject
+66,Retail,1231193,582735,0.88,21,5.79,36,0,0.28,Very High Risk,Reject
+57,Retail,2347336,480951,0.79,4,13.53,12,0,0.28,Very High Risk,Reject
+54,Retail,4229790,745265,0.59,22,10.98,12,0,0.28,Very High Risk,Reject
+13,Corporate,561831,670482,0.87,6,8.11,36,0,0.28,Very High Risk,Reject
+94,Corporate,1721738,872755,0.52,3,4.53,36,0,0.28,Very High Risk,Reject
+64,Retail,2416488,204053,0.58,19,11.97,36,1,0.28,Very High Risk,Reject
+60,Retail,1839891,606562,0.4,24,8.27,24,0,0.27,Very High Risk,Reject
+86,Corporate,1367682,154990,0.28,24,3.4,12,0,0.27,Very High Risk,Reject
+44,Retail,1642818,409384,0.66,11,3.8,36,0,0.26,Very High Risk,Reject
+68,Retail,3039758,922826,0.77,18,7.61,48,0,0.26,Very High Risk,Reject
+90,Retail,2645075,533138,0.19,4,7.1,12,1,0.26,Very High Risk,Reject
+92,Retail,4472987,766254,0.52,8,4.33,60,0,0.26,Very High Risk,Reject
+49,Retail,4128502,659324,0.23,15,12.54,24,0,0.25,Very High Risk,Reject
+71,Retail,4262406,813692,0.32,21,10.49,12,0,0.25,Very High Risk,Reject
+69,Retail,563636,609991,0.47,10,9.52,36,0,0.25,Very High Risk,Reject
+31,Retail,4285780,231897,0.32,10,11.18,24,0,0.25,Very High Risk,Reject
+83,Corporate,547313,197210,0.2,15,6.74,12,0,0.24,High Risk,Review & Monitor
+95,Corporate,2938873,805543,0.78,20,7.77,36,1,0.24,High Risk,Review & Monitor
+46,Retail,3255187,541849,0.35,16,9.89,12,0,0.24,High Risk,Review & Monitor
+32,Corporate,1385531,11062,0.86,24,12.12,12,0,0.24,High Risk,Review & Monitor
+98,Corporate,3715501,656465,0.8,24,5.75,60,0,0.23,High Risk,Review & Monitor
+23,Retail,2213151,639474,0.52,24,3.62,48,0,0.23,High Risk,Review & Monitor
+26,Corporate,100640,580559,0.46,10,3.76,60,0,0.22,High Risk,Review & Monitor
+79,Corporate,555830,535893,0.86,17,9.4,48,1,0.22,High Risk,Review & Monitor
+8,Corporate,4227571,377257,0.87,11,9.86,60,0,0.22,High Risk,Review & Monitor
+14,Retail,3019475,814462,0.11,18,9.09,48,0,0.22,High Risk,Review & Monitor
+1,Corporate,2676791,399593,0.47,15,13.39,36,0,0.22,High Risk,Review & Monitor
+45,Retail,2305504,642387,0.53,11,11.89,60,0,0.22,High Risk,Review & Monitor
+33,Corporate,705510,257736,0.81,17,10.15,36,1,0.21,High Risk,Review & Monitor
+56,Corporate,3802811,345623,0.85,8,7.31,48,0,0.21,High Risk,Review & Monitor
+28,Retail,2030991,441734,0.57,17,6.87,24,0,0.21,High Risk,Review & Monitor
+77,Corporate,4456219,954789,0.54,14,12.53,36,0,0.21,High Risk,Review & Monitor
+62,Retail,2449862,372920,0.89,3,8.55,36,1,0.21,High Risk,Review & Monitor
+48,Retail,4690456,616440,0.65,19,4.68,12,0,0.21,High Risk,Review & Monitor
+12,Corporate,2258636,932630,0.28,2,6.88,24,0,0.2,High Risk,Review & Monitor
+47,Corporate,4634299,477010,0.75,11,13.1,60,1,0.2,High Risk,Review & Monitor
+85,Retail,3492565,872557,0.58,15,11.93,12,0,0.19,Medium Risk,Approve with Conditions
+87,Retail,1316643,168518,0.64,11,9.84,48,0,0.18,Medium Risk,Approve with Conditions
+18,Retail,4741075,572926,0.52,19,6.46,12,0,0.18,Medium Risk,Approve with Conditions
+3,Corporate,4863177,83686,0.2,15,6.09,48,0,0.18,Medium Risk,Approve with Conditions
+21,Corporate,863727,640265,0.54,6,8.77,36,0,0.18,Medium Risk,Approve with Conditions
+35,Corporate,2764296,105462,0.6,17,7.94,12,0,0.18,Medium Risk,Approve with Conditions
+73,Retail,3265658,275956,0.79,1,14.28,60,0,0.18,Medium Risk,Approve with Conditions
+10,Retail,187164,156106,0.33,7,12.23,36,1,0.17,Medium Risk,Approve with Conditions
+59,Retail,2793642,33275,0.12,4,12.8,36,1,0.17,Medium Risk,Approve with Conditions
+93,Retail,56790,800756,0.72,17,13.16,36,0,0.16,Medium Risk,Approve with Conditions
+82,Corporate,748216,168211,0.46,9,4.82,12,0,0.16,Medium Risk,Approve with Conditions
+43,Corporate,4290538,381923,0.89,13,5.17,12,0,0.16,Medium Risk,Approve with Conditions
+51,Retail,4276238,36734,0.76,23,4.96,12,0,0.15,Medium Risk,Approve with Conditions
+27,Retail,4420886,870120,0.6,19,14.88,60,0,0.15,Medium Risk,Approve with Conditions
+20,Corporate,721095,128033,0.16,20,4.85,48,0,0.15,Medium Risk,Approve with Conditions
+67,Corporate,3973334,962033,0.77,5,13.79,36,0,0.14,Medium Risk,Approve with Conditions
+11,Retail,4759930,268930,0.79,6,5.24,24,1,0.14,Medium Risk,Approve with Conditions
+100,Retail,3917857,694106,0.21,14,11.64,36,0,0.14,Medium Risk,Approve with Conditions
+29,Retail,4152263,383220,0.82,5,12.72,12,0,0.13,Medium Risk,Approve with Conditions
+41,Retail,4093960,638880,0.16,21,11.77,48,0,0.13,Medium Risk,Approve with Conditions
+99,Corporate,1909490,313571,0.42,22,11.67,60,0,0.12,Medium Risk,Approve with Conditions
+5,Retail,95953,578535,0.62,21,11.02,24,0,0.12,Medium Risk,Approve with Conditions
+97,Corporate,779074,550677,0.55,15,4.8,12,0,0.11,Medium Risk,Approve with Conditions
+36,Retail,3361869,409445,0.32,20,7.19,36,0,0.11,Medium Risk,Approve with Conditions
+7,Corporate,2627480,682108,0.57,2,9.68,36,0,0.11,Medium Risk,Approve with Conditions
+22,Retail,1192928,623157,0.88,1,9.39,48,0,0.1,Medium Risk,Approve with Conditions
+70,Retail,3068370,872522,0.43,22,13.88,36,0,0.1,Medium Risk,Approve with Conditions
+78,Corporate,2564629,126421,0.72,2,10.44,24,0,0.1,Medium Risk,Approve with Conditions
+84,Retail,3695060,796237,0.86,22,5.98,48,0,0.1,Medium Risk,Approve with Conditions
+9,Retail,2952097,276765,0.4,19,6.36,48,0,0.09,Low Risk,Approve
+6,Corporate,4019618,255121,0.7,14,14.15,36,0,0.09,Low Risk,Approve
+63,Corporate,227775,201076,0.22,18,6.62,24,0,0.09,Low Risk,Approve
+81,Corporate,2166233,82303,0.3,13,12.46,60,0,0.09,Low Risk,Approve
+17,Retail,3399720,458874,0.81,15,10.33,24,0,0.08,Low Risk,Approve
+34,Retail,3771196,584736,0.46,10,8.66,60,0,0.08,Low Risk,Approve
+74,Corporate,1806203,431240,0.75,5,10.53,12,1,0.07,Low Risk,Approve
+88,Corporate,1563584,134040,0.59,16,12.15,48,0,0.07,Low Risk,Approve
+52,Retail,455523,933875,0.86,16,4.97,60,0,0.07,Low Risk,Approve
+50,Corporate,3651581,396193,0.83,23,5.42,48,0,0.07,Low Risk,Approve
+4,Corporate,3383597,77661,0.19,5,5.05,48,0,0.07,Low Risk,Approve
+30,Retail,4624877,675627,0.14,4,6.06,48,0,0.07,Low Risk,Approve
+42,Retail,3294908,668956,0.88,2,14.26,12,0,0.06,Low Risk,Approve
+15,Corporate,3236420,879270,0.88,2,5.91,24,0,0.06,Low Risk,Approve
+58,Retail,4190435,91264,0.14,8,7.71,24,0,0.05,Low Risk,Approve
+75,Corporate,2306360,724016,0.9,9,7.02,12,0,0.04,Low Risk,Approve
+39,Corporate,2037635,582203,0.38,2,14.58,60,1,0.04,Low Risk,Approve
+37,Retail,928320,460009,0.25,24,14.15,12,0,0.03,Low Risk,Approve
+24,Retail,3193683,831106,0.6,15,7.04,48,0,0.03,Low Risk,Approve
+25,Retail,4000001,176926,0.66,23,4.61,48,0,0.02,Low Risk,Approve
+19,Corporate,2670328,863499,0.89,2,9.97,12,0,0.02,Low Risk,Approve
+2,Retail,2740108,825131,0.15,23,12.8,36,0,0.02,Low Risk,Approve
+80,Retail,1362397,474374,0.78,14,13.73,24,0,0.02,Low Risk,Approve
+76,Corporate,4438249,912580,0.9,12,4.67,60,0,0.02,Low Risk,Approve
+16,Corporate,3395884,881149,0.13,18,4.38,60,0,0.01,Low Risk,Approve
+55,Corporate,1069458,547198,0.43,16,9.28,36,0,0.01,Low Risk,Approve
+61,Corporate,3818340,484665,0.75,3,7.52,24,0,0.01,Low Risk,Approve
+72,Corporate,4298764,122581,0.15,6,4.4,48,0,0.01,Low Risk,Approve
+91,Corporate,4969003,428034,0.64,1,12.86,12,0,0.01,Low Risk,Approve
+89,Corporate,424540,678406,0.39,17,13.52,60,1,0.01,Low Risk,Approve

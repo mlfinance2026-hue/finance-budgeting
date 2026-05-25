@@ -1,0 +1,18 @@
+{
+  "nifty_spot": 21927.4,
+  "dataset_size": 41389,
+  "strikes_count": 107,
+  "expiries_count": 6,
+  "bs_rmse": 40.9951,
+  "bs_r2": 0.9937,
+  "best_model": "Random Forest",
+  "best_rmse": 18.0737,
+  "best_r2": 0.9988,
+  "bs_improvement_pct": 55.9,
+  "port_delta": -2327.5,
+  "port_gamma": 50.7426,
+  "var_95": -100605.0,
+  "var_99": -186956.0,
+  "cvar_95": -162256.0,
+  "high_rebalance_count": 6
+}
